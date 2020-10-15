@@ -16,7 +16,6 @@ class RandomContainer extends React.Component{
                 form
             ]
         })
-        console.log(this.state.data)
     }
 
     handleDel = (index) => {
